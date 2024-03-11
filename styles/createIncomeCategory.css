@@ -1,0 +1,32 @@
+@import url('incomeCategories.css');
+
+.main-header {
+  margin-bottom: 41px;
+}
+
+.create-input {
+  margin-bottom: 20px;
+}
+
+.create-input input {
+  width: 397px;
+  height: 38px;
+  padding: 7px 16px;
+  background-color: #F5F5F5;
+  border-radius: 4px;
+  color: #000000;
+  border: 1px solid #CED4DA;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  line-height: 24px;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.create-input input::placeholder {
+  color: #6C757D;
+}
+
+.action-agree {
+  margin-right: 10px;
+}
